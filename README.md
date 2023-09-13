@@ -70,7 +70,9 @@ The final configuration field allows you to specify a name or class from which t
 |:-----|:----------|-------
 |calendar_long_name|Use the long subject name.|`True`
 |calendar_show_cancelled_lessons|Show cancelled lessons.|`False`
+|calendar_show_room_change|Show room change.|`False`
 |calendar_description|Pick what will be shown in events description.|`JSON`
+|calendar_room|Pick what will be shown in events location.|`long name`
 
 ### Backend
 |Option|Description|Default
